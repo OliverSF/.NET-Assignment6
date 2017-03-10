@@ -1,0 +1,9 @@
+c:\users\oliver\documents\visual studio 2015\Projects\SuperMarketAssignment\SuperMarketAssignment\bin\Debug\SuperMarketAssignment.exe.config
+c:\users\oliver\documents\visual studio 2015\Projects\SuperMarketAssignment\SuperMarketAssignment\bin\Debug\SuperMarketAssignment.exe
+c:\users\oliver\documents\visual studio 2015\Projects\SuperMarketAssignment\SuperMarketAssignment\bin\Debug\SuperMarketAssignment.pdb
+c:\users\oliver\documents\visual studio 2015\Projects\SuperMarketAssignment\SuperMarketAssignment\obj\Debug\SuperMarketAssignment.exe
+c:\users\oliver\documents\visual studio 2015\Projects\SuperMarketAssignment\SuperMarketAssignment\obj\Debug\SuperMarketAssignment.pdb
+c:\users\oliver\documents\visual studio 2015\Projects\SuperMarketAssignment\SuperMarketAssignment\obj\Debug\SuperMarketAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Source\Repos\.NET-Assignment6\SuperMarketAssignment\bin\Debug\SuperMarketAssignment.exe.config
+C:\Users\Oliver\Source\Repos\.NET-Assignment6\SuperMarketAssignment\obj\Debug\SuperMarketAssignment.exe
+C:\Users\Oliver\Source\Repos\.NET-Assignment6\SuperMarketAssignment\obj\Debug\SuperMarketAssignment.pdb
